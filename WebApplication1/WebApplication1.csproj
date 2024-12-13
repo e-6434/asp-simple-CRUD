@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\lib\twitter-bootstrap\img\b11.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\twitter-bootstrap\img\4972987.jpg" />
+    <None Include="wwwroot\lib\twitter-bootstrap\img\4972989.jpg" />
+    <None Include="wwwroot\lib\twitter-bootstrap\img\IRIAF_Air_University.svg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+ 
+</head>
+<body>
+    <table  style="width:100%;height:100%">
+        <tr >
+            <th style="border:solid;width:100%;background-color:blueviolet" colspan="2">
+                <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                    <div class="container-fluid">
+                        <div class="d-flex">
+                            <img style="width:50px" src="~/IRIAF_Air_University.svg.png" alt="not img" />
+                            <a class="navbar-brand" href="">Erfan Ebrahimkhani</a>
+                          
+
+                        </div>
+                       
+                        <div dir="rtl"  id="navbarSupportedContent">
+                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="index">خانه</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="addNewPerson">افزودن کاربر</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="listallperson"> لیست کاربران</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="functions"> توابع </a>
+                                </li>
+                            </ul>
+     
+                        </div>
+
+                    </div>
+                </nav>
+            </th>
+ 
+
+        </tr>
+        <tr>
+            <th style="border:solid;width:90%">
+                @RenderBody()
+            </th>
+ 
+        </tr>
+</table>
+
+ 
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+</body>
+</html>
+

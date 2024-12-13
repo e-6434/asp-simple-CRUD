@@ -1,0 +1,189 @@
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\libman.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\WebAppli.7D14BD69.Up2Date
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.endpoints.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\کلاس\کارگاه وب\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\libman.json
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\libman.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\uni sattari\Desktop\پوشه_جدید\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\libman.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\ebrah\Desktop\استاد رستمی 1403\پوشه_جدید\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\libman.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\ebrah\Desktop\Erfan-Ebrahimkhani\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

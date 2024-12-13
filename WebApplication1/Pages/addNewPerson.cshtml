@@ -1,0 +1,58 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebApplication1.Pages.NewPersonModel
+@{
+}
+
+
+<div dir="rtl" class="row g-2">
+
+
+    <div  class="col-8">
+        <div class="p-3">
+            <form dir="rtl" name="form1" method="post">
+                <div>
+
+                    <div class="input-group mb-3">
+                        <label for="basic-url" class="form-label m-10">نام       :</label>
+
+                        <input type="text" class="form-control" aria-describedby="basic-addon1" asp-for="FName" />
+                    </div>
+                    <div class="input-group mb-3">
+                        <label for="basic-url" class="form-label  m-10">شهرت :</label>
+                        <input type="text" class="form-control" aria-describedby="basic-addon1" asp-for="LName" />
+                    </div>
+                    <div class="input-group mb-3">
+                        <label for="basic-url" class="form-label  m-10">کد ملی    :</label>
+
+                        <input type="text" class="form-control" aria-describedby="basic-addon1" asp-for="NationalCode" />
+                    </div>
+                    <div class="input-group mb-3">
+                        <label for="basic-url" class="form-label  m-10">محل تولد    : </label>
+
+                        <input type="text" class="form-control" aria-describedby="basic-addon1" asp-for="BirthPlace" />
+                    </div>
+                    <div class="input-group mb-3">
+                        <label for="basic-url" class="form-label  m-10">تاریخ تولد   :  </label>
+
+                        <input type="text" class="form-control" aria-describedby="basic-addon1" asp-for="birthDate" />
+                    </div>
+                    <div class="input-group mb-3">
+                        <label for="basic-url" class="form-label  m-10">نام پدر  : </label>
+
+                        <input type="text" class="form-control" aria-describedby="basic-addon1" asp-for="FatherName" />
+                    </div>
+
+                    <button type="submit" class="btn btn-primary ">ذخیره</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+
+
+
+
+
+  

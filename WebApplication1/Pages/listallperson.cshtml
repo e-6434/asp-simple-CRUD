@@ -1,0 +1,56 @@
+﻿@page
+@using System.Data
+@model WebApplication1.Pages.list_personModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+}
+<style>
+  div.style {
+        width: 60%;
+        overflow: auto;
+        margin-left:30PX;
+        margin-top:30px;
+        border:solid;
+        border-color:greenyellow;
+    }
+</style>
+
+    <form dir="rtl" method="post" >
+    <div class="style">
+    <table class="table align-middle">
+        <thead>
+            <tr >
+                <th >نام</th>
+                <th >نام خانوادگی</th>
+                <th >کدملی</th>
+                <th >محل تولد</th>
+                <th >تاریخ تولد</th>
+                <th >نام پدر</th>
+                <th>حذف</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (DataRow row in Model.dt_list.Rows)
+            {
+                <tr >                    
+                    <td >@row["FName"]</td>
+                    <td >@row["LName"]</td>
+                    <td >@row["NationalCode"]</td>
+                    <td >@row["BirthPlace"]</td>
+                        <td>@row["birth_date"]</td>
+                    <td >@row["FatherName"]</td>                     
+                     <td> 
+                     <form method="post">
+                         <button asp-page-handler="delete" class="btn btn-danger" asp-route-id=@row["person_id"]> حذف </button>                             
+                     </form>
+                    </td>                     
+                </tr>
+            }
+        </tbody>
+    </table>
+
+        <a href="NewPerson"   type="button" class="btn btn-success"> افزودن عضو  </a>
+    </div>
+
+     </form>
+ 
